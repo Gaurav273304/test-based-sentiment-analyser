@@ -1,2 +1,2 @@
-# test-based-sentiment-analyser
+# text-based-sentiment-analyser
 My AI project 
